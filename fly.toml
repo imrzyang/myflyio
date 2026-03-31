@@ -1,5 +1,10 @@
-app = "mynginxv2l-au"
-primary_region = "syd"
+# fly.toml app configuration file generated for mynginxv2l-au on 2026-03-31T15:17:48Z
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'mynginxv2l-au'
+primary_region = 'syd'
 
 [build]
 
