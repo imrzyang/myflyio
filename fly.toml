@@ -1,5 +1,5 @@
 app = "mynginxv2l-za"
-primary_region = "jnb"
+primary_region = "lhr"
 
 [build]
 
