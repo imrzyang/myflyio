@@ -1,5 +1,5 @@
 app = "mynginxv2l-br"
-primary_region = "gru"
+primary_region = "sin"
 
 [build]
 
