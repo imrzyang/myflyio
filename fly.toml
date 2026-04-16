@@ -1,5 +1,5 @@
 app = "mynginxv2l-au"
-primary_region = "syd"
+primary_region = "fra"
 
 [build]
 
