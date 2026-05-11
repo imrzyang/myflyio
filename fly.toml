@@ -1,3 +1,8 @@
+# fly.toml app configuration file generated for mynginxv2l-br on 2026-05-11T02:23:06Z
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
 app = "mynginxv2l-br"
 primary_region = "sin"
 
